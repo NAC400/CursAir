@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables file (if used)
+.env
+
+# IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore your setup files if not needed on GitHub
+setup.py

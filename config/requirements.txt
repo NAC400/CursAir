@@ -1,0 +1,2 @@
+pyautogui
+# Add other dependencies as needed
